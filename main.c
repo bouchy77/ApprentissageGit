@@ -1,8 +1,8 @@
 #include<stdio.h>
 
-void main(){
+int main(){
 
 afficherFeteLumiere();
 afficherVoeux();
-
+return 0;
 }
